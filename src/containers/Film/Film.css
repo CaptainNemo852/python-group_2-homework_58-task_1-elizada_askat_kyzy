@@ -1,0 +1,21 @@
+.form {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delete_button {
+    font-size: 17px;
+    margin-top: 20px;
+    padding: 5px;
+    color: darkred;
+}
+
+.movie_film {
+    margin-top: 2px;
+    font-size: 17px;
+    padding: 5px;
+    text-shadow: 0 0 10px black;
+    border-radius: 5px;
+    width: 456px;
+}
